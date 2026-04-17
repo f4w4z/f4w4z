@@ -1,117 +1,189 @@
-<h1 align="center">Fawaz</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer. Systems Builder. Shipping Things That Scale.</strong>
-</p>
+# FAWAZ
 
-<p align="center">
-  <a href="https://github.com/f4w4z">github</a> &middot;
-  <a href="https://linkedin.com/in/fawaaaaz">linkedin</a> &middot;
-  <a href="https://zeny.rocks">zeny.rocks</a> &middot;
-  <a href="mailto:thef4waz@gmail.com">mail</a>
-</p>
+<br/>
 
----
+**building systems that don't break under pressure**
 
-<p align="center">
-  CS undergrad building backend infrastructure, real-time systems, and AI tooling.<br/>
-  Currently engineering at <strong>Zenyslab</strong>. Previously led a <strong>2000+ member</strong> tech community.<br/>
-  I obsess over latency, correctness, and resilient architecture.
-</p>
+<br/>
+
+[![github](https://img.shields.io/badge/github-f4w4z-000?style=for-the-badge&logo=github)](https://github.com/f4w4z)
+[![linkedin](https://img.shields.io/badge/linkedin-fawaaaaz-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fawaaaaz)
+[![site](https://img.shields.io/badge/site-zeny.rocks-000?style=for-the-badge&logo=safari&logoColor=white)](https://zeny.rocks)
+[![mail](https://img.shields.io/badge/mail-thef4waz-000?style=for-the-badge&logo=gmail)](mailto:thef4waz@gmail.com)
+
+<br/>
 
 ---
 
-<h3 align="center">Stack</h3>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+CS undergrad. Software Engineer at **Zenyslab**. Previously co-led a **2000+ member** tech community.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-</p>
+I build backend infrastructure, real-time systems, and AI tooling.
+I care about latency, correctness, and shipping things that actually survive production.
+
+<br/>
+
+`low-latency` `real-time-systems` `distributed-sync` `offline-first` `resilient-architecture`
+`peer-to-peer` `mesh-networking` `agentic-ai` `systems-thinking` `infrastructure`
+
+<br/>
 
 ---
 
-<h3 align="center">Work</h3>
+<br/>
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>ZenPays</strong></td>
-    <td>Offline payment system over BLE mesh networking. Peer-to-peer transactions with node discovery, packet handling, retry logic, and validation — no internet required.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Sockets</strong></td>
-    <td>WebRTC collaborative editor with peer-to-peer voice. Sub-150ms latency. Secure sessions and real-time sync.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Buddy</strong></td>
-    <td>Mobile AI companion with persistent conversational memory. React Native, Supabase, FCM. Sub-200ms messaging, push notifications, OTA updates.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Automail</strong></td>
-    <td>AI email automation with Gmail OAuth and LLM APIs. 500+ users at peak. Async task processing and scalable deployment.</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Anon Msg</strong></td>
-    <td>Encrypted anonymous messaging with persistent identity and low-latency delivery architecture.</td>
-  </tr>
-</table>
+### Stack
 
----
+<br/>
 
-<h3 align="center">Experience</h3>
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 
-<p align="center">
-  <strong>Software Engineer</strong> at Zenyslab — 2025 to present<br/>
-  Backend systems, AI products, real-time infrastructure, auth, APIs, persistent storage.
-</p>
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo)
 
-<p align="center">
-  <strong>Ex-Co-Lead</strong> at Microsoft Student Community, SRMAP — 2025 to 2026<br/>
-  Led engineering initiatives. Mentored in backend systems and development. Grew community to 2000+ members.
-</p>
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![WebRTC](https://img.shields.io/badge/WebRTC-000?style=for-the-badge&logo=webrtc)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonwebservices)
+![Kubernetes](https://img.shields.io/badge/K8s-000?style=for-the-badge&logo=kubernetes)
 
-<p align="center">
-  <strong>Research Member</strong> at Singularity Advanced Research Lab — 2025 to present<br/>
-  Quantum algorithms — Shor's, Grover's.
-</p>
+<br/>
 
 ---
 
-<h3 align="center">Education</h3>
+<br/>
 
-<p align="center">
-  <strong>B.Tech in CSE (AI & ML)</strong> — SRM University AP<br/>
-  CGPA: 9.2
-</p>
+### Projects
 
-<p align="center">
-  <strong>Higher Secondary</strong> — Meru International School<br/>
-  All India Rank: 71
-</p>
+<br/>
+
+**ZenPays** / Offline BLE Mesh Payment System
+
+Secure offline payment system over Bluetooth Low Energy mesh networking.
+Peer-to-peer payment flows with node discovery, packet handling, retry logic,
+and transaction validation. No internet. No server. Just mesh.
+
+`ble` `mesh-networking` `offline-first` `p2p` `node-discovery` `packet-handling` `retry-logic` `transaction-validation`
+
+<br/>
+
+**Sockets** / WebRTC Collaborative Editor with Voice
+
+Real-time collaborative editor with peer-to-peer voice via WebRTC.
+Sub-150ms latency. Secure session handling. Low-latency sync infrastructure.
+
+`webrtc` `real-time` `collaboration` `voice` `sub-150ms` `p2p` `session-management`
+
+<br/>
+
+**Buddy** / Mobile AI Companion
+
+Mobile AI companion with persistent conversational memory and real-time sync.
+React Native, Supabase, FCM. Sub-200ms messaging. Push notifications. OTA updates.
+
+`react-native` `supabase` `fcm` `conversational-ai` `persistent-memory` `sub-200ms` `ota-updates`
+
+<br/>
+
+**Automail** / AI Email Automation Platform
+
+AI-powered email automation with Gmail OAuth and LLM APIs.
+500+ users at peak. Async task processing. Scalable deployment.
+
+`llm-apis` `gmail-oauth` `automation` `async-processing` `500+-users` `prompt-engineering`
+
+<br/>
+
+**Anon Msg** / Secure Anonymous Messaging
+
+Encrypted messaging system with persistent identity resolution
+and low-latency message delivery architecture.
+
+`encryption` `anonymity` `persistent-identity` `low-latency` `message-routing`
+
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f4w4z&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=333333&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=f4w4z&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=333333&sideNums=333333&dates=999999" width="49%" />
-</p>
+<br/>
+
+### Experience
+
+<br/>
+
+**Software Engineer** / Zenyslab / 2025 to present
+
+Backend systems for AI products and real-time communication.
+Auth flows, scalable APIs, persistent storage, low-latency messaging and sync.
+
+`backend` `ai-products` `real-time` `auth` `apis` `infrastructure`
+
+<br/>
+
+**Ex-Co-Lead** / Microsoft Student Community, SRMAP / 2025 to 2026
+
+Led engineering initiatives across a 2000+ member community.
+Mentored in backend systems and software development.
+
+`leadership` `mentorship` `community-building` `2000+-members`
+
+<br/>
+
+**Research Member** / Singularity Advanced Research Lab / 2025 to present
+
+Quantum algorithms. Shor's. Grover's.
+
+`quantum-computing` `algorithm-research` `shor` `grover`
+
+<br/>
 
 ---
 
-<p align="center">
-  <sub>Hyderabad, India</sub>
-</p>
+<br/>
+
+### Education
+
+<br/>
+
+**B.Tech in CSE (AI & ML)** / SRM University AP / CGPA 9.2
+
+**Higher Secondary** / Meru International School / All India Rank 71
+
+<br/>
+
+---
+
+<br/>
+
+### Currently into
+
+<br/>
+
+`distributed-systems` `protocol-design` `webrtc-internals` `ble-mesh` `edge-computing`
+`agentic-architectures` `prompt-optimization` `quantum-algorithms` `systems-programming`
+`low-level-networking` `kernel-concepts` `racing` `karting` `performance-engineering`
+
+<br/>
+
+---
+
+<br/>
+
+<sub>Hyderabad, India</sub>
+
+<br/>
+
+</div>
