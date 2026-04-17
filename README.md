@@ -19,10 +19,10 @@
 
 <br/>
 
-### 🛠 Stack
+### Stack
 
 <details open>
-<summary><b>Languages & Frameworks</b></summary>
+<summary><b>Languages & Web</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
@@ -33,6 +33,16 @@
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+</details>
+
+<details open>
+<summary><b>App Development</b></summary>
+<br/>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio)
 </details>
 
 <details open>
@@ -49,7 +59,7 @@
 
 <br/>
 
-### 💻 Projects
+### Projects
 
 **ZenPays** / Offline BLE Mesh Payment System
 > Secure offline payment system over Bluetooth Low Energy mesh networking. Peer-to-peer payment flows with node discovery, packet handling, retry logic, and transaction validation. No internet. No server. 
@@ -64,7 +74,7 @@
 **Buddy** / Mobile AI Companion
 > Mobile AI companion with persistent conversational memory and real-time sync. React Native, Supabase, FCM. Sub-200ms messaging. Push notifications. OTA updates.
 > 
-> `react-native` `supabase` `fcm` `conversational-ai` `persistent-memory`
+> `react-native` `expo` `supabase` `fcm` `conversational-ai` `persistent-memory`
 
 **Automail** / AI Email Automation Platform
 > AI-powered email automation with Gmail OAuth and LLM APIs. 500+ users at peak. Async task processing. Scalable deployment.
@@ -78,7 +88,7 @@
 
 <br/>
 
-### ⏱ Experience
+### Experience
 
 **Software Engineer** / Zenyslab / *2025 – present*
 > Backend systems for AI products and real-time communication. Auth flows, scalable APIs, persistent storage, low-latency messaging and sync.
@@ -94,14 +104,14 @@
 
 <br/>
 
-### 🎓 Education
+### Education
 - **B.Tech in CSE (AI & ML)** / SRM University AP *(CGPA 9.2)*
 - **Higher Secondary** / Meru International School *(All India Rank 71)*
 
 <br/>
 
-### 🧠 Currently into
-`distributed-systems` `protocol-design` `webrtc-internals` `ble-mesh` `edge-computing` `agentic-architectures` `prompt-optimization` `quantum-algorithms` `systems-programming` `low-level-networking` `kernel-concepts` `racing` `karting` `performance-engineering`
+### Currently into
+`distributed-systems` `protocol-design` `webrtc-internals` `ble-mesh` `edge-computing` `app-dev` `android-internals` `agentic-architectures` `prompt-optimization` `quantum-algorithms` `systems-programming` `low-level-networking` `kernel-concepts` `racing` `karting` `performance-engineering`
 
 <br/>
 
