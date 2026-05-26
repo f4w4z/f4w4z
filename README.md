@@ -6,7 +6,7 @@
 
 [![github](https://img.shields.io/badge/github-f4w4z-000000?style=for-the-badge&logo=github)](https://github.com/f4w4z)
 [![linkedin](https://img.shields.io/badge/linkedin-fawaaaaz-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fawaaaaz)
-[![site](https://img.shields.io/badge/site-zeny.rocks-000000?style=for-the-badge&logo=safari&logoColor=white)](https://zeny.rocks)
+[![site](https://img.shields.io/badge/site-fwz.one-000000?style=for-the-badge&logo=safari&logoColor=white)](https://fwz.one)
 [![mail](https://img.shields.io/badge/mail-thef4waz-000000?style=for-the-badge&logo=gmail)](mailto:thef4waz@gmail.com)
 
 </div>
