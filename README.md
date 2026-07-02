@@ -1,6 +1,6 @@
 ### fawaz
 
-full-stack & ai engineer · cs @ srm ap · [fwz.one](https://fwz.one) · [linkedin](https://linkedin.com/in/fawaaaaz) · thef4waz@gmail.com
+full-stack & ai engineer · [fwz.one](https://fwz.one) · [linkedin](https://linkedin.com/in/fawaaaaz) · thef4waz@gmail.com
 
 ---
 
